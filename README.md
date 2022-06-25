@@ -1,5 +1,6 @@
 # Fashion-Recommender-System
-
+- APP:
+https://teguhpermana666-fashion-recommendation-main-9gzovf.streamlitapp.com/
 - fashiom recommender system used deep learning algorithm dengan CNN sebuah layer untuk extraction dari input layers sehingga mudah di olah pada hidden 
 layers computational recommendation system
 
