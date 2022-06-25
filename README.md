@@ -36,3 +36,8 @@ layers computational recommendation system
   https://medium.com/swlh/k-nearest-neighbor-ca2593d7a3c4
   
 - Data set : https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset => 25 GB ( make sure your device)
+
+# what want to used u can to use the test
+- Download the images
+- get one on sample 
+- Compile
